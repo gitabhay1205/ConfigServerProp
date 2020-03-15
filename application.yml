@@ -2,8 +2,7 @@ my:
   greeting: Hello World
   list:
     values: One,Two
-
 db:
-  connection:Hello Db Connection
-  host:pukadqwe
-  password:abhay
+  connection: Hello Db Connection
+  host: pukadqwe
+  password: abhay

@@ -1,0 +1,8 @@
+my:
+  greeting: Hello World
+  list:
+    values: One,Two
+db:
+  connection: Hello DEV Environment Db Connection updated
+  host: pukadqwe
+  password: abhay

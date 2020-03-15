@@ -3,6 +3,6 @@ my:
   list:
     values: One,Two
 db:
-  connection: Hello new UAT environment Db Connection updated
+  connection: Hello newly updted UAT environment Db Connection updated
   host: pukadqwe
   password: abhay
